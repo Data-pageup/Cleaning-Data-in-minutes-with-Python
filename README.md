@@ -1,9 +1,9 @@
 
-## Descriptive Analysis of BMW Used Car Dataset
+# Descriptive Analysis of BMW Used Car Dataset
 
-# The Question : What exaclty are these dataset is? what is about? how we'll it is? what are different columns are about? what description are we gonna do ?
+### The Question : What exaclty are these dataset is? what is about? how we'll it is? what are different columns are about? what description are we gonna do ?
 
-# These are the questions i tried to answer! with my data analysis skill!
+### These are the questions i tried to answer! with my data analysis skill!
 
 
 ## 1. Dataset Overview
